@@ -2,6 +2,14 @@
 
 修改自 [六爻](https://github.com/RealKai42/liu-yao-divining)
 
+## 使用
+
+### Install
+
+```shell
+
+```
+
 ## 例1
 
 > 六爻结果: 艮巽
