@@ -2,6 +2,8 @@
 
 修改自 [六爻](https://github.com/RealKai42/liu-yao-divining)
 
+you can try from [八卦六爻](https://bagualiuyao.streamlit.app/)
+
 ## 使用
 
 ### Install
