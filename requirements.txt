@@ -1,0 +1,4 @@
+socksio
+streamlit
+openai==v0.28.1
+python-dotenv

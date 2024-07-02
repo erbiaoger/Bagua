@@ -1,0 +1,4 @@
+ignore
+.env
+test.py
+.vscode/
